@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<Hall>
+		<Position>2</Position>
+		<Paintings p_attr="t">
+			<Painting>
+				<Painting_theme p_attr="t">
+					<Theme p_id="upecee_Class7">
+						<Name>Portrait</Name>
+					</Theme>
+				</Painting_theme>
+				<Title>Maude Abrantes</Title>
+				<Painting_style p_attr="t">
+					<Style p_id="upecee_Class3">
+						<Age_start>1900</Age_start>
+						<Name>Expressionism</Name>
+						<Nacionality>Spain</Nacionality>
+						<Age_end>1980</Age_end>
+					</Style>
+				</Painting_style>
+				<Painting_author p_attr="t">
+					<Author p_id="upecee_Class6">
+						<Main_styles p_attr="t">
+							<Style p_idref="upecee_Class3"/>
+						</Main_styles>
+						<Name>Amedeo Modigliani</Name>
+						<Main_themes p_attr="t">
+							<Theme p_id="upecee_Class4">
+								<Name>Symbolic Paintings</Name>
+							</Theme>
+							<Theme p_idref="upecee_Class7"/>
+						</Main_themes>
+						<Nacionality>Italian</Nacionality>
+					</Author>
+				</Painting_author>
+				<DimensionY>5.0</DimensionY>
+				<Complexity>Normal</Complexity>
+				<DimensionX>4.0</DimensionX>
+				<Creation_year>1907</Creation_year>
+			</Painting>
+			<Painting>
+				<Painting_theme p_attr="t">
+					<Theme p_idref="upecee_Class7"/>
+				</Painting_theme>
+				<Title>Bride and Groom</Title>
+				<Painting_style p_attr="t">
+					<Style p_idref="upecee_Class3"/>
+				</Painting_style>
+				<Painting_author p_attr="t">
+					<Author p_idref="upecee_Class6"/>
+				</Painting_author>
+				<DimensionY>25.0</DimensionY>
+				<Complexity>Normal</Complexity>
+				<DimensionX>10.0</DimensionX>
+				<Creation_year>1915</Creation_year>
+			</Painting>
+		</Paintings>
+		<Hall_theme p_attr="t">
+			<Author p_idref="upecee_Class6"/>
+		</Hall_theme>
+	</Hall>
+	<Painting>
+		<Painting_theme p_attr="t">
+			<Theme p_idref="upecee_Class4"/>
+		</Painting_theme>
+		<Title>The persistence of memory</Title>
+		<Painting_style p_attr="t">
+			<Style p_id="upecee_Class2">
+				<Age_start>1900</Age_start>
+				<Name>Surrealism</Name>
+				<Nacionality>European</Nacionality>
+				<Age_end>1950</Age_end>
+			</Style>
+		</Painting_style>
+		<Painting_author p_attr="t">
+			<Author>
+				<Main_styles p_attr="t">
+					<Style p_idref="upecee_Class2"/>
+					<Style p_idref="upecee_Class3"/>
+				</Main_styles>
+				<Name>Salvador Dali</Name>
+				<Main_themes p_attr="t">
+					<Theme p_idref="upecee_Class4"/>
+				</Main_themes>
+				<Nacionality>Spain</Nacionality>
+			</Author>
+		</Painting_author>
+		<DimensionY>40.0</DimensionY>
+		<Complexity>Complex</Complexity>
+		<DimensionX>4.0</DimensionX>
+		<Creation_year>1931</Creation_year>
+	</Painting>
+</project>

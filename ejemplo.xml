@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <Painting>
+    <Painting_theme p_attr="t">
+      <Theme p_id="Theme_0">
+        <Name>Objects</Name>
+      </Theme>
+    </Painting_theme>
+    <Title>Apple in the tree</Title>
+    <Relevancy>None</Relevancy>
+    <Painting_style p_attr="t">
+      <Style p_id="Style_0">
+        <Name>Baroque</Name>
+        <Age>1700</Age>
+        <Nacionality>European</Nacionality>
+      </Style>
+    </Painting_style>
+    <Painting_author p_attr="t">
+      <Author p_id="Author_0">
+        <Name>David Nogales</Name>
+        <Nacionality>Spain</Nacionality>
+      </Author>
+    </Painting_author>
+    <DimensionY>2.0</DimensionY>
+    <Complexity>Simple</Complexity>
+    <DimensionX>1.5</DimensionX>
+    <Creation_year>1777</Creation_year>
+  </Painting>
+  <Painting>
+    <Painting_theme p_attr="t">
+      <Theme>
+        <Name>People</Name>
+      </Theme>
+    </Painting_theme>
+    <Title>Autorretrato</Title>
+    <Relevancy>None</Relevancy>
+    <Painting_style p_attr="t">
+      <Style>
+        <Name>Modern</Name>
+        <Age>1900</Age>
+        <Nacionality>European</Nacionality>
+      </Style>
+    </Painting_style>
+    <Painting_author p_attr="t">
+      <Author>
+        <Name>Pablo Picasso</Name>
+        <Nacionality>Spain</Nacionality>
+      </Author>
+    </Painting_author>
+    <DimensionY>1.5</DimensionY>
+    <Complexity>Simple</Complexity>
+    <DimensionX>0.8</DimensionX>
+    <Creation_year>1901</Creation_year>
+  </Painting>
+  <Painting>
+    <Painting_theme p_attr="t">
+      <Theme>
+        <Name>Dead Nature</Name>
+      </Theme>
+    </Painting_theme>
+    <Title>El Aquelarre</Title>
+    <Relevancy>None</Relevancy>
+    <Painting_style p_attr="t">
+      <Style>
+        <Name>Romantiscism</Name>
+        <Age>1700</Age>
+        <Nacionality>European</Nacionality>
+      </Style>
+    </Painting_style>
+    <Painting_author p_attr="t">
+      <Author>
+        <Name>Francisco Goya</Name>
+        <Nacionality>Spain</Nacionality>
+      </Author>
+    </Painting_author>
+    <DimensionY>2.0</DimensionY>
+    <Complexity>Simple</Complexity>
+    <DimensionX>1.5</DimensionX>
+    <Creation_year>1798</Creation_year>
+  </Painting>
+  <Painting>
+    <Painting_theme p_attr="t">
+      <Theme p_idref = "Theme_0"/>
+    </Painting_theme>
+    <Title>More Apples</Title>
+    <Relevancy>None</Relevancy>
+    <Painting_style p_attr="t">
+      <Style p_idref = "Style_0"/>
+    </Painting_style>
+    <Painting_author p_attr="t">
+      <Author p_idref="Author_0"/>
+    </Painting_author>
+    <DimensionY>3.0</DimensionY>
+    <Complexity>Simple</Complexity>
+    <DimensionX>3.5</DimensionX>
+    <Creation_year>1787</Creation_year>
+  </Painting>
+</project>

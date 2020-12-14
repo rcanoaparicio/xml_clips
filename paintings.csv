@@ -1,0 +1,102 @@
+id,name,year,genere,artist,theme,x,y,complexity
+0,Portrait of Maude Abrantes,1907,Expressionism,0,Portrait,92,40,2
+1,Bride and Groom,1915,Expressionism,0,Portrait,31,54,1
+2,Portrait of Moise Kisling,1915,Expressionism,0,Portrait,22,81,0
+3,Leon Idenbaum,1916,Expressionism,0,Portrait,11,31,0
+4,Der Blaue Reiter,1903,Expressionism,1,Landscape,18,16,0
+5,The Cow,1910,Abstractionism,1,Abstract Art,68,21,2
+6,Composition X,1939,Abstractionism,1,Abstract Art,25,53,0
+7,Brown with supplement,1935,Abstractionism,1,Abstract Art,90,81,1
+8,Motherhood-Angelina and the Child Diego,1916,Cubism,2,Family,83,21,1
+9,Young Man with a Fountain Pen,1914,Cubism,2,Portrait,48,38,2
+10,Portrait of Adolfo Best Maugard,1913,Realism,2,Portrait,89,29,1
+11,Impression soleil levant,1872,Impressionism,3,Landscape,88,36,2
+12,La Japonaise,1876,Impressionism,3,Costumes,50,85,2
+13,Haystacks,1890,Impressionism,3,Landscape,86,34,0
+14,The Rape,1934,Surrealism,4,Allegorical painting,88,59,1
+15,The False Mirror,1928,Surrealism,4,Allegorical painting,44,15,1
+16,Collective Invention,1934,Surrealism,4,Symbolic painting,13,11,2
+17,The persistence of Memory,1931,Surrealism,5,Symbolic painting,35,10,1
+18,The Great Masturbator,1940,Surrealism,5,Symbolic painting,69,94,1
+19,Dream Caused by the Flight of a Bee around a Pomegranate a Second before Awakening,1944,Surrealism,5,Symbolic painting,39,69,0
+20,Music in the Tuileries Garden,1862,Impressionism,6,Painting,96,17,1
+21,Olympia,1863,Realism,6,Nude Painting,93,12,0
+22,St. Demetrius of Thessalonica,1427,Byzantine Art,7,Religious,92,23,1
+23,St. Luke the Evangelist,1400,Byzantine Art,7,Religious,96,48,1
+24,The Starry Night,1889,Post-Impressionism,8,Cloudscape,97,59,0
+25,Sower with Setting Sun,1888,Post-Impressionism,8,Landscape,57,24,1
+26,Red Vineyards at Arles,1888,Post-Impressionism,8,Landscape,74,85,1
+27,The Kiss,1908,Art Nouveau,9,Painting,93,60,0
+28,The Three Ages of Woman,1905,Art Nouveau,9,Symbolic painting,35,30,1
+29,Here is a Man,1480,Northern Renaissance,10,Religious,97,32,1
+30,Suprematist composition,1915,Suprematism,11,Abstract Art,73,26,0
+31,Virgin and Child,1884,Symbolism,12,Religious,42,15,2
+32,The Old Blind Guitarist,1903,Expressionism,13,Painting,79,26,2
+33,Portrait of Ambroise Vollard,1910,Cubism,13,Portrait,98,74,1
+34,Guernica,1937,Cubism,13,Allegorical painting,68,33,1
+35,The girls of Avignon,1907,Cubism,13,Nude Painting,81,88,0
+36,The Elevation of the Cross,1610,Baroque,14,Religious,62,68,0
+37,Descent form the Cross,1614,Baroque,14,Religious,95,73,1
+38,Samson and Delilah,1610,Baroque,14,Religious,40,38,1
+39,Dance at Moulin de la Galette,1876,Impressionism,15,Painting,25,39,1
+40,The Adoration of the Name of The Lord,1772,Romanticism,16,Religious,92,82,1
+41,Nude Maja,1800,Romanticism,16,Nude Painting,27,99,0
+42,Portrait of Maria Teresa de Vallabriga on horseback,1783,Romanticism,16,Portrait,97,88,0
+43,The Fight at Venta Nueva,1777,Romanticism,16,Painting,25,30,1
+44,The Broken Column,1944,Primitivism,17,Portrait,80,37,0
+45,The Two Fridas,1939,Primitivism,17,Portrait,85,90,2
+46,Self Portrait with Cropped Hair,1940,Primitivism,17,Portrait,37,60,1
+47,Coronation of the Virgin,1591,Mannerism,18,Religious,21,45,1
+48,The Disrobing of Christ,1579,Mannerism,18,Religious,92,86,1
+49,Self-Portrait,1498,Northern Renaissance,19,Portrait,39,75,1
+50,Avenue of Chestnut Trees at La Celle-Saint-Cloud,1865,Impressionism,20,Landscape,40,63,1
+51,Beekeepers,1568,Northern Renaissance,21,Genre,15,13,2
+52,Spring,1565,Northern Renaissance,21,Genre,57,26,1
+53,Two Monkeys,1562,Northern Renaissance,21,Genre,89,43,0
+54,Bella with White Collar,1917,Primitivism,22,Portrait,51,96,1
+55,Le Marchand de bestiaux,1912,Primitivism,22,Genre,49,51,0
+56,The Prophet,1968,Primitivism,22,Religious,100,47,0
+57,Saint Francis Receiving the Stigmata,1295,Proto Renaissance,23,Religious,79,62,1
+58,Badia Polyptych,1300,Proto Renaissance,23,Religious,76,59,1
+59,Padua Crucifix,1303,Proto Renaissance,23,Religious,79,26,1
+60,Madonna and Child with an Angel,1465,Early Renaissance,24,Religious,94,36,0
+61,Madonna with Child,1467,Early Renaissance,24,Religious,26,93,1
+62,Madonna and Child with an Angel,1465,Early Renaissance,24,Religious,24,47,1
+63,The Taking of Christ,1602,Baroque,25,Religious,11,55,0
+64,Conversion on the Way to Damascus,1601,Baroque,25,Religious,77,59,1
+65,The Denial of Saint Peter,1610,Baroque,25,Religious,71,92,1
+66,Nativity with St. Francis and St. Lawrence,1600,Baroque,25,Religious,39,32,0
+67,The Entombment of Christ,1603,Baroque,25,Religious,87,41,0
+68,Baptism of Christ,1472,High Renaissance,26,Religious,63,49,0
+69,Virgin of the Rocks,1483,High Renaissance,26,Religious,42,64,2
+70,Saint John the Baptist,1513,High Renaissance,26,Religious,88,33,0
+71,Annunciation,1472,High Renaissance,26,Religious,32,82,0
+72,Las Meninas,1656,Baroque,27,Portrait,76,57,1
+73,The Three Musicians,1618,Baroque,27,Genre,47,72,1
+74,Kitchen Maid,1620,Baroque,27,Genre,100,58,2
+75,The Lunch,1617,Baroque,27,Genre,78,66,0
+76,The Arnolfini Portrait,1434,Northern Renaissance,29,Portrait,69,15,2
+77,Portrait of Margaret van Eyck,1439,Northern Renaissance,29,Portrait,86,73,2
+78,The Annunciation,1434,Northern Renaissance,29,Religious,86,94,1
+79,Dresden Triptych,1437,Northern Renaissance,29,Polyptychs,39,64,0
+80,The Bellelli Family,1858,Impressionism,30,Portrait,61,20,0
+81,Young Spartans Exercising,1860,Impressionism,30,Genre,29,99,0
+82,Self-portrait in a cap,1630,Baroque,31,Portrait,71,26,2
+83,Self-portrait with Saskia,1636,Baroque,31,Portrait,84,46,0
+84,A Woman Bathing in a Stream,1654,Baroque,31,Genre,12,74,0
+85,Man with Leather Belt,1845,Realism,34,Portrait,95,13,0
+86,L'homme à la pipe,1848,Realism,34,Portrait,80,14,2
+87,La belle Irlandaise,1865,Realism,34,Portrait,78,72,0
+88,Modern Rome,1839,Romanticism,36,Landscape,98,12,1
+89,Fishermen at Sea,1796,Romanticism,36,Landscape,99,40,1
+90,Fanatics of Tangier,1838,Romanticism,39,Genre,93,100,1
+91,Medea about to Kill Her Children,1838,Romanticism,39,Religious,82,10,2
+92,The Barque of Dante,1822,Romanticism,39,Religious,84,99,2
+93,A Carnival Evening,1886,Primitivism,40,Landscape,98,22,2
+94,Self Portrait,1890,Primitivism,40,Portrait,25,67,1
+95,Le Moulin,1896,Primitivism,40,Landscape,41,66,0
+96,Self-portrait of the Artist with a Lamp,1903,Primitivism,40,Portrait,76,90,1
+97,The Snake Charmer,1907,Primitivism,40,Landscape,87,90,2
+98,Carrer de Pedralbes,1918,Surrealism,44,Landscape,45,96,1
+99,The Farm,1921,Surrealism,44,Landscape,88,54,2
+100,Victory Boogie Woogie,1944,Neoplasticism,43,Geometric,57,22,0

@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<Painting>
+		<Title>Portrait of Maude Abrantes</Title>
+		<Creation_year>1907</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_0">
+				<Name>Expressionism</Name>
+				<Age_start>1914</Age_start>
+				<Age_end>1939</Age_end>
+				<Nacionality>Italian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0">
+				<Name>Portrait</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_0">
+				<Name>Amedeo Modigliani</Name>
+				<Nacionality>Italian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_0"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>92</DimensionX>
+		<DimensionY>40</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Bride and Groom</Title>
+		<Creation_year>1915</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_0"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_0"/>
+		</Painting_author>
+		<DimensionX>31</DimensionX>
+		<DimensionY>54</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Portrait of Moise Kisling</Title>
+		<Creation_year>1915</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_0"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_0"/>
+		</Painting_author>
+		<DimensionX>22</DimensionX>
+		<DimensionY>81</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Leon Idenbaum</Title>
+		<Creation_year>1916</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_0"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_0"/>
+		</Painting_author>
+		<DimensionX>11</DimensionX>
+		<DimensionY>31</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Der Blaue Reiter</Title>
+		<Creation_year>1903</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_0"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1">
+				<Name>Landscape</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_1">
+				<Name>Vasiliy Kandinskiy</Name>
+				<Nacionality>Russian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_0"/>
+					<Style p_id="Style_1">
+						<Name>Abstractionism</Name>
+						<Age_start>1850</Age_start>
+						<Age_end>1950</Age_end>
+						<Nacionality>Flemish</Nacionality>
+					</Style>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_1"/>
+					<Theme p_id="Theme_2">
+						<Name>Abstract Art</Name>
+					</Theme>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>18</DimensionX>
+		<DimensionY>16</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Cow</Title>
+		<Creation_year>1910</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_1"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_2"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_1"/>
+		</Painting_author>
+		<DimensionX>68</DimensionX>
+		<DimensionY>21</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Composition X</Title>
+		<Creation_year>1939</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_1"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_2"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_1"/>
+		</Painting_author>
+		<DimensionX>25</DimensionX>
+		<DimensionY>53</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Brown with supplement</Title>
+		<Creation_year>1935</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_1"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_2"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_1"/>
+		</Painting_author>
+		<DimensionX>90</DimensionX>
+		<DimensionY>81</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Motherhood-Angelina and the Child Diego</Title>
+		<Creation_year>1916</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_2">
+				<Name>Cubism</Name>
+				<Age_start>1900</Age_start>
+				<Age_end>1920</Age_end>
+				<Nacionality>Spanish</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_3">
+				<Name>Family</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_2">
+				<Name>Diego Rivera</Name>
+				<Nacionality>Mexican</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_2"/>
+					<Style p_id="Style_3">
+						<Name>Realism</Name>
+						<Age_start>1870</Age_start>
+						<Age_end>1960</Age_end>
+						<Nacionality>Italian</Nacionality>
+					</Style>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_3"/>
+					<Theme p_idref = "Theme_0"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>83</DimensionX>
+		<DimensionY>21</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Young Man with a Fountain Pen</Title>
+		<Creation_year>1914</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_2"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_2"/>
+		</Painting_author>
+		<DimensionX>48</DimensionX>
+		<DimensionY>38</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Portrait of Adolfo Best Maugard</Title>
+		<Creation_year>1913</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_3"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_2"/>
+		</Painting_author>
+		<DimensionX>89</DimensionX>
+		<DimensionY>29</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Impression soleil levant</Title>
+		<Creation_year>1872</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_4">
+				<Name>Impressionism</Name>
+				<Age_start>1800</Age_start>
+				<Age_end>1850</Age_end>
+				<Nacionality>French</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_3">
+				<Name>Claude Monet</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_4"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_1"/>
+					<Theme p_id="Theme_4">
+						<Name>Costumes</Name>
+					</Theme>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>88</DimensionX>
+		<DimensionY>36</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>La Japonaise</Title>
+		<Creation_year>1876</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_4"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_3"/>
+		</Painting_author>
+		<DimensionX>50</DimensionX>
+		<DimensionY>85</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Haystacks</Title>
+		<Creation_year>1890</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_3"/>
+		</Painting_author>
+		<DimensionX>86</DimensionX>
+		<DimensionY>34</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Rape</Title>
+		<Creation_year>1934</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_5">
+				<Name>Surrealism</Name>
+				<Age_start>1900</Age_start>
+				<Age_end>1920</Age_end>
+				<Nacionality>Spanish</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_5">
+				<Name>Allegorical painting</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_4">
+				<Name>Rene Magritte</Name>
+				<Nacionality>Belgian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_5"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_5"/>
+					<Theme p_id="Theme_6">
+						<Name>Symbolic painting</Name>
+					</Theme>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>88</DimensionX>
+		<DimensionY>59</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The False Mirror</Title>
+		<Creation_year>1928</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_5"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_4"/>
+		</Painting_author>
+		<DimensionX>44</DimensionX>
+		<DimensionY>15</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Collective Invention</Title>
+		<Creation_year>1934</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_6"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_4"/>
+		</Painting_author>
+		<DimensionX>13</DimensionX>
+		<DimensionY>11</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The persistence of Memory</Title>
+		<Creation_year>1931</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_6"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_5">
+				<Name>Salvador Dali</Name>
+				<Nacionality>Spanish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_5"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_6"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>35</DimensionX>
+		<DimensionY>10</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Great Masturbator</Title>
+		<Creation_year>1940</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_6"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_5"/>
+		</Painting_author>
+		<DimensionX>69</DimensionX>
+		<DimensionY>94</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Dream Caused by the Flight of a Bee around a Pomegranate a Second before Awakening</Title>
+		<Creation_year>1944</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_6"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_5"/>
+		</Painting_author>
+		<DimensionX>39</DimensionX>
+		<DimensionY>69</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Music in the Tuileries Garden</Title>
+		<Creation_year>1862</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_7">
+				<Name>Painting</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_6">
+				<Name>Edouard Manet</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_4"/>
+					<Style p_idref = "Style_3"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_7"/>
+					<Theme p_id="Theme_8">
+						<Name>Nude Painting</Name>
+					</Theme>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>96</DimensionX>
+		<DimensionY>17</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Olympia</Title>
+		<Creation_year>1863</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_3"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_8"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_6"/>
+		</Painting_author>
+		<DimensionX>93</DimensionX>
+		<DimensionY>12</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>St. Demetrius of Thessalonica</Title>
+		<Creation_year>1427</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_6">
+				<Name>Byzantine Art</Name>
+				<Age_start>330</Age_start>
+				<Age_end>1450</Age_end>
+				<Nacionality>Russian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9">
+				<Name>Religious</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_7">
+				<Name>Andrei Rublev</Name>
+				<Nacionality>Russian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_6"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>92</DimensionX>
+		<DimensionY>23</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>St. Luke the Evangelist</Title>
+		<Creation_year>1400</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_6"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_7"/>
+		</Painting_author>
+		<DimensionX>96</DimensionX>
+		<DimensionY>48</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Starry Night</Title>
+		<Creation_year>1889</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_7">
+				<Name>Post-Impressionism</Name>
+				<Age_start>1880</Age_start>
+				<Age_end>1905</Age_end>
+				<Nacionality>British</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_10">
+				<Name>Cloudscape</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_8">
+				<Name>Vincent van Gogh</Name>
+				<Nacionality>Dutch</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_7"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_10"/>
+					<Theme p_idref = "Theme_1"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>97</DimensionX>
+		<DimensionY>59</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Sower with Setting Sun</Title>
+		<Creation_year>1888</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_7"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_8"/>
+		</Painting_author>
+		<DimensionX>57</DimensionX>
+		<DimensionY>24</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Red Vineyards at Arles</Title>
+		<Creation_year>1888</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_7"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_8"/>
+		</Painting_author>
+		<DimensionX>74</DimensionX>
+		<DimensionY>85</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Kiss</Title>
+		<Creation_year>1908</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_8">
+				<Name>Art Nouveau</Name>
+				<Age_start>1880</Age_start>
+				<Age_end>1920</Age_end>
+				<Nacionality>French</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_7"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_9">
+				<Name>Gustav Klimt</Name>
+				<Nacionality>Austrian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_8"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_7"/>
+					<Theme p_idref = "Theme_6"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>93</DimensionX>
+		<DimensionY>60</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Three Ages of Woman</Title>
+		<Creation_year>1905</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_8"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_6"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_9"/>
+		</Painting_author>
+		<DimensionX>35</DimensionX>
+		<DimensionY>30</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Here is a Man</Title>
+		<Creation_year>1480</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_9">
+				<Name>Northern Renaissance</Name>
+				<Age_start>1500</Age_start>
+				<Age_end>1610</Age_end>
+				<Nacionality>Flemish</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_10">
+				<Name>Hieronymus Bosch</Name>
+				<Nacionality>Dutch</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_9"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>97</DimensionX>
+		<DimensionY>32</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Suprematist composition</Title>
+		<Creation_year>1915</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_10">
+				<Name>Suprematism</Name>
+				<Age_start>1890</Age_start>
+				<Age_end>1930</Age_end>
+				<Nacionality>Russian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_2"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_11">
+				<Name>Kazimir Malevich</Name>
+				<Nacionality>Russian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_10"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_2"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>73</DimensionX>
+		<DimensionY>26</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Virgin and Child</Title>
+		<Creation_year>1884</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_11">
+				<Name>Symbolism</Name>
+				<Age_start>1850</Age_start>
+				<Age_end>1900</Age_end>
+				<Nacionality>Russian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_12">
+				<Name>Mikhail Vrubel</Name>
+				<Nacionality>Russian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_11"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>42</DimensionX>
+		<DimensionY>15</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Old Blind Guitarist</Title>
+		<Creation_year>1903</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_0"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_7"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_13">
+				<Name>Pablo Picasso</Name>
+				<Nacionality>Spanish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_0"/>
+					<Style p_idref = "Style_2"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_7"/>
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_5"/>
+					<Theme p_idref = "Theme_8"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>79</DimensionX>
+		<DimensionY>26</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Portrait of Ambroise Vollard</Title>
+		<Creation_year>1910</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_2"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_13"/>
+		</Painting_author>
+		<DimensionX>98</DimensionX>
+		<DimensionY>74</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Guernica</Title>
+		<Creation_year>1937</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_2"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_5"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_13"/>
+		</Painting_author>
+		<DimensionX>68</DimensionX>
+		<DimensionY>33</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The girls of Avignon</Title>
+		<Creation_year>1907</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_2"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_8"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_13"/>
+		</Painting_author>
+		<DimensionX>81</DimensionX>
+		<DimensionY>88</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Elevation of the Cross</Title>
+		<Creation_year>1610</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_12">
+				<Name>Baroque</Name>
+				<Age_start>1600</Age_start>
+				<Age_end>1750</Age_end>
+				<Nacionality>Italian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_14">
+				<Name>Peter Paul Rubens</Name>
+				<Nacionality>Flemish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_12"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>62</DimensionX>
+		<DimensionY>68</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Descent form the Cross</Title>
+		<Creation_year>1614</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_14"/>
+		</Painting_author>
+		<DimensionX>95</DimensionX>
+		<DimensionY>73</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Samson and Delilah</Title>
+		<Creation_year>1610</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_14"/>
+		</Painting_author>
+		<DimensionX>40</DimensionX>
+		<DimensionY>38</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Dance at Moulin de la Galette</Title>
+		<Creation_year>1876</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_7"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_15">
+				<Name>Pierre-Auguste Renoir</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_4"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_7"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>25</DimensionX>
+		<DimensionY>39</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Adoration of the Name of The Lord</Title>
+		<Creation_year>1772</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_13">
+				<Name>Romanticism</Name>
+				<Age_start>1800</Age_start>
+				<Age_end>1840</Age_end>
+				<Nacionality>British</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_16">
+				<Name>Francisco Goya</Name>
+				<Nacionality>Spanish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_13"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+					<Theme p_idref = "Theme_8"/>
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_7"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>92</DimensionX>
+		<DimensionY>82</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Nude Maja</Title>
+		<Creation_year>1800</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_8"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_16"/>
+		</Painting_author>
+		<DimensionX>27</DimensionX>
+		<DimensionY>99</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Portrait of Maria Teresa de Vallabriga on horseback</Title>
+		<Creation_year>1783</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_16"/>
+		</Painting_author>
+		<DimensionX>97</DimensionX>
+		<DimensionY>88</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Fight at Venta Nueva</Title>
+		<Creation_year>1777</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_7"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_16"/>
+		</Painting_author>
+		<DimensionX>25</DimensionX>
+		<DimensionY>30</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Broken Column</Title>
+		<Creation_year>1944</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_14">
+				<Name>Primitivism</Name>
+				<Age_start>1850</Age_start>
+				<Age_end>1900</Age_end>
+				<Nacionality>Russian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_17">
+				<Name>Frida Kahlo</Name>
+				<Nacionality>Mexican</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_14"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>80</DimensionX>
+		<DimensionY>37</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Two Fridas</Title>
+		<Creation_year>1939</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_17"/>
+		</Painting_author>
+		<DimensionX>85</DimensionX>
+		<DimensionY>90</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Self Portrait with Cropped Hair</Title>
+		<Creation_year>1940</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_17"/>
+		</Painting_author>
+		<DimensionX>37</DimensionX>
+		<DimensionY>60</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Coronation of the Virgin</Title>
+		<Creation_year>1591</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_15">
+				<Name>Mannerism</Name>
+				<Age_start>1500</Age_start>
+				<Age_end>1600</Age_end>
+				<Nacionality>British</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_18">
+				<Name>El Greco</Name>
+				<Nacionality>Spanish,Greek</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_15"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>21</DimensionX>
+		<DimensionY>45</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Disrobing of Christ</Title>
+		<Creation_year>1579</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_15"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_18"/>
+		</Painting_author>
+		<DimensionX>92</DimensionX>
+		<DimensionY>86</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Self-Portrait</Title>
+		<Creation_year>1498</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_19">
+				<Name>Albrecht Dürer</Name>
+				<Nacionality>German</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_9"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>39</DimensionX>
+		<DimensionY>75</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Avenue of Chestnut Trees at La Celle-Saint-Cloud</Title>
+		<Creation_year>1865</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_20">
+				<Name>Alfred Sisley</Name>
+				<Nacionality>French,British</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_4"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_1"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>40</DimensionX>
+		<DimensionY>63</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Beekeepers</Title>
+		<Creation_year>1568</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11">
+				<Name>Genre</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_21">
+				<Name>Pieter Bruegel</Name>
+				<Nacionality>Flemish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_9"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_11"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>15</DimensionX>
+		<DimensionY>13</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Spring</Title>
+		<Creation_year>1565</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_21"/>
+		</Painting_author>
+		<DimensionX>57</DimensionX>
+		<DimensionY>26</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Two Monkeys</Title>
+		<Creation_year>1562</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_21"/>
+		</Painting_author>
+		<DimensionX>89</DimensionX>
+		<DimensionY>43</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Bella with White Collar</Title>
+		<Creation_year>1917</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_22">
+				<Name>Marc Chagall</Name>
+				<Nacionality>French,Jewish,Belarusian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_14"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_11"/>
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>51</DimensionX>
+		<DimensionY>96</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Le Marchand de bestiaux</Title>
+		<Creation_year>1912</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_22"/>
+		</Painting_author>
+		<DimensionX>49</DimensionX>
+		<DimensionY>51</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Prophet</Title>
+		<Creation_year>1968</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_22"/>
+		</Painting_author>
+		<DimensionX>100</DimensionX>
+		<DimensionY>47</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Saint Francis Receiving the Stigmata</Title>
+		<Creation_year>1295</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_16">
+				<Name>Proto Renaissance</Name>
+				<Age_start>1200</Age_start>
+				<Age_end>1400</Age_end>
+				<Nacionality>Italian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_23">
+				<Name>Giotto di Bondone</Name>
+				<Nacionality>Italian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_16"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>79</DimensionX>
+		<DimensionY>62</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Badia Polyptych</Title>
+		<Creation_year>1300</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_16"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_23"/>
+		</Painting_author>
+		<DimensionX>76</DimensionX>
+		<DimensionY>59</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Padua Crucifix</Title>
+		<Creation_year>1303</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_16"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_23"/>
+		</Painting_author>
+		<DimensionX>79</DimensionX>
+		<DimensionY>26</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Madonna and Child with an Angel</Title>
+		<Creation_year>1465</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_17">
+				<Name>Early Renaissance</Name>
+				<Age_start>1400</Age_start>
+				<Age_end>1500</Age_end>
+				<Nacionality>Italian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_24">
+				<Name>Sandro Botticelli</Name>
+				<Nacionality>Italian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_17"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>94</DimensionX>
+		<DimensionY>36</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Madonna with Child</Title>
+		<Creation_year>1467</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_17"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_24"/>
+		</Painting_author>
+		<DimensionX>26</DimensionX>
+		<DimensionY>93</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Madonna and Child with an Angel</Title>
+		<Creation_year>1465</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_17"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_24"/>
+		</Painting_author>
+		<DimensionX>24</DimensionX>
+		<DimensionY>47</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Taking of Christ</Title>
+		<Creation_year>1602</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_25">
+				<Name>Caravaggio</Name>
+				<Nacionality>Italian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_12"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>11</DimensionX>
+		<DimensionY>55</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Conversion on the Way to Damascus</Title>
+		<Creation_year>1601</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_25"/>
+		</Painting_author>
+		<DimensionX>77</DimensionX>
+		<DimensionY>59</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Denial of Saint Peter</Title>
+		<Creation_year>1610</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_25"/>
+		</Painting_author>
+		<DimensionX>71</DimensionX>
+		<DimensionY>92</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Nativity with St. Francis and St. Lawrence</Title>
+		<Creation_year>1600</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_25"/>
+		</Painting_author>
+		<DimensionX>39</DimensionX>
+		<DimensionY>32</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Entombment of Christ</Title>
+		<Creation_year>1603</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_25"/>
+		</Painting_author>
+		<DimensionX>87</DimensionX>
+		<DimensionY>41</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Baptism of Christ</Title>
+		<Creation_year>1472</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_18">
+				<Name>High Renaissance</Name>
+				<Age_start>1500</Age_start>
+				<Age_end>1600</Age_end>
+				<Nacionality>Italian</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_26">
+				<Name>Leonardo da Vinci</Name>
+				<Nacionality>Italian</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_18"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>63</DimensionX>
+		<DimensionY>49</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Virgin of the Rocks</Title>
+		<Creation_year>1483</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_18"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_26"/>
+		</Painting_author>
+		<DimensionX>42</DimensionX>
+		<DimensionY>64</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Saint John the Baptist</Title>
+		<Creation_year>1513</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_18"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_26"/>
+		</Painting_author>
+		<DimensionX>88</DimensionX>
+		<DimensionY>33</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Annunciation</Title>
+		<Creation_year>1472</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_18"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_26"/>
+		</Painting_author>
+		<DimensionX>32</DimensionX>
+		<DimensionY>82</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Las Meninas</Title>
+		<Creation_year>1656</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_27">
+				<Name>Diego Velazquez</Name>
+				<Nacionality>Spanish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_12"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_11"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>76</DimensionX>
+		<DimensionY>57</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Three Musicians</Title>
+		<Creation_year>1618</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_27"/>
+		</Painting_author>
+		<DimensionX>47</DimensionX>
+		<DimensionY>72</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Kitchen Maid</Title>
+		<Creation_year>1620</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_27"/>
+		</Painting_author>
+		<DimensionX>100</DimensionX>
+		<DimensionY>58</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Lunch</Title>
+		<Creation_year>1617</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_27"/>
+		</Painting_author>
+		<DimensionX>78</DimensionX>
+		<DimensionY>66</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Arnolfini Portrait</Title>
+		<Creation_year>1434</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_29">
+				<Name>Jan van Eyck</Name>
+				<Nacionality>Flemish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_9"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_9"/>
+					<Theme p_id="Theme_12">
+						<Name>Polyptychs</Name>
+					</Theme>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>69</DimensionX>
+		<DimensionY>15</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Portrait of Margaret van Eyck</Title>
+		<Creation_year>1439</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_29"/>
+		</Painting_author>
+		<DimensionX>86</DimensionX>
+		<DimensionY>73</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Annunciation</Title>
+		<Creation_year>1434</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_29"/>
+		</Painting_author>
+		<DimensionX>86</DimensionX>
+		<DimensionY>94</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Dresden Triptych</Title>
+		<Creation_year>1437</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_9"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_12"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_29"/>
+		</Painting_author>
+		<DimensionX>39</DimensionX>
+		<DimensionY>64</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Bellelli Family</Title>
+		<Creation_year>1858</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_30">
+				<Name>Edgar Degas</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_4"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_11"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>61</DimensionX>
+		<DimensionY>20</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Young Spartans Exercising</Title>
+		<Creation_year>1860</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_4"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_30"/>
+		</Painting_author>
+		<DimensionX>29</DimensionX>
+		<DimensionY>99</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Self-portrait in a cap</Title>
+		<Creation_year>1630</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_31">
+				<Name>Rembrandt</Name>
+				<Nacionality>Dutch</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_12"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+					<Theme p_idref = "Theme_11"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>71</DimensionX>
+		<DimensionY>26</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Self-portrait with Saskia</Title>
+		<Creation_year>1636</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_31"/>
+		</Painting_author>
+		<DimensionX>84</DimensionX>
+		<DimensionY>46</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>A Woman Bathing in a Stream</Title>
+		<Creation_year>1654</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_12"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_31"/>
+		</Painting_author>
+		<DimensionX>12</DimensionX>
+		<DimensionY>74</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Man with Leather Belt</Title>
+		<Creation_year>1845</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_3"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_34">
+				<Name>Gustave Courbet</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_3"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_0"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>95</DimensionX>
+		<DimensionY>13</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>L'homme à la pipe</Title>
+		<Creation_year>1848</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_3"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_34"/>
+		</Painting_author>
+		<DimensionX>80</DimensionX>
+		<DimensionY>14</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>La belle Irlandaise</Title>
+		<Creation_year>1865</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_3"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_34"/>
+		</Painting_author>
+		<DimensionX>78</DimensionX>
+		<DimensionY>72</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Modern Rome</Title>
+		<Creation_year>1839</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_36">
+				<Name>William Turner</Name>
+				<Nacionality>British</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_13"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_1"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>98</DimensionX>
+		<DimensionY>12</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Fishermen at Sea</Title>
+		<Creation_year>1796</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_36"/>
+		</Painting_author>
+		<DimensionX>99</DimensionX>
+		<DimensionY>40</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Fanatics of Tangier</Title>
+		<Creation_year>1838</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_11"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_39">
+				<Name>Eugene Delacroix</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_13"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_11"/>
+					<Theme p_idref = "Theme_9"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>93</DimensionX>
+		<DimensionY>100</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Medea about to Kill Her Children</Title>
+		<Creation_year>1838</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_39"/>
+		</Painting_author>
+		<DimensionX>82</DimensionX>
+		<DimensionY>10</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Barque of Dante</Title>
+		<Creation_year>1822</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_13"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_9"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_39"/>
+		</Painting_author>
+		<DimensionX>84</DimensionX>
+		<DimensionY>99</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>A Carnival Evening</Title>
+		<Creation_year>1886</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_40">
+				<Name>Henri Rousseau</Name>
+				<Nacionality>French</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_14"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_1"/>
+					<Theme p_idref = "Theme_0"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>98</DimensionX>
+		<DimensionY>22</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Self Portrait</Title>
+		<Creation_year>1890</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_40"/>
+		</Painting_author>
+		<DimensionX>25</DimensionX>
+		<DimensionY>67</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Le Moulin</Title>
+		<Creation_year>1896</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_40"/>
+		</Painting_author>
+		<DimensionX>41</DimensionX>
+		<DimensionY>66</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Self-portrait of the Artist with a Lamp</Title>
+		<Creation_year>1903</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_0"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_40"/>
+		</Painting_author>
+		<DimensionX>76</DimensionX>
+		<DimensionY>90</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Snake Charmer</Title>
+		<Creation_year>1907</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_14"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_40"/>
+		</Painting_author>
+		<DimensionX>87</DimensionX>
+		<DimensionY>90</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Carrer de Pedralbes</Title>
+		<Creation_year>1918</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_44">
+				<Name>Joan Miro</Name>
+				<Nacionality>Spanish</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_5"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_1"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>45</DimensionX>
+		<DimensionY>96</DimensionY>
+		<Complexity>1</Complexity>
+	</Painting>
+	<Painting>
+		<Title>The Farm</Title>
+		<Creation_year>1921</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_idref = "Style_5"/>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_1"/>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_idref="Author_44"/>
+		</Painting_author>
+		<DimensionX>88</DimensionX>
+		<DimensionY>54</DimensionY>
+		<Complexity>2</Complexity>
+	</Painting>
+	<Painting>
+		<Title>Victory Boogie Woogie</Title>
+		<Creation_year>1944</Creation_year>
+		<Painting_style p_attr="t">
+			<Style p_id="Style_19">
+				<Name>Neoplasticism</Name>
+				<Age_start>1900</Age_start>
+				<Age_end>1950</Age_end>
+				<Nacionality>American</Nacionality>
+			</Style>
+		</Painting_style>
+		<Painting_theme p_attr="t">
+			<Theme p_id="Theme_13">
+				<Name>Geometric</Name>
+			</Theme>
+		</Painting_theme>
+		<Painting_author p_attr="t">
+			<Author p_id="Author_43">
+				<Name>Piet Mondrian</Name>
+				<Nacionality>Dutch</Nacionality>
+				<Main_styles p_attr="t">
+					<Style p_idref = "Style_19"/>
+				</Main_styles>
+				<Main_themes p_attr="t">
+					<Theme p_idref = "Theme_13"/>
+				</Main_themes>
+			</Author>
+		</Painting_author>
+		<DimensionX>57</DimensionX>
+		<DimensionY>22</DimensionY>
+		<Complexity>0</Complexity>
+	</Painting>
+</project>

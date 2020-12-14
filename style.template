@@ -1,0 +1,6 @@
+<Style p_id="Style_{}">
+	<Name>{}</Name>
+	<Age_start>{}</Age_start>
+	<Age_end>{}</Age_end>
+	<Nacionality>{}</Nacionality>
+</Style>

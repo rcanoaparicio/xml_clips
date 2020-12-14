@@ -1,0 +1,10 @@
+<Author p_id="Author_{}">
+	<Name>{}</Name>
+	<Nacionality>{}</Nacionality>
+	<Main_styles p_attr="t">
+		{}
+	</Main_styles>
+	<Main_themes p_attr="t">
+		{}
+	</Main_themes>
+</Author>

@@ -1,0 +1,16 @@
+<Painting>
+	<Title>{}</Title>
+	<Creation_year>{}</Creation_year>
+	<Painting_style p_attr="t">
+		{}
+	</Painting_style>
+	<Painting_theme p_attr="t">
+		{}
+	</Painting_theme>
+	<Painting_author p_attr="t">
+		{}
+	</Painting_author>
+	<DimensionX>{}</DimensionX>
+	<DimensionY>{}</DimensionY>
+	<Complexity>{}</Complexity>
+</Painting>
